@@ -4,7 +4,7 @@ body{
 }
 
 .gradient-container{
-    background: rgba(0, 4, 32, 0.699);
+    background: linear-gradient(to bottom right,#97AFC5,#15606A);
     width: 900px;
     height: 550px;
     border-radius: 5px;
