@@ -1,0 +1,46 @@
+body{
+    background: black;
+    overflow: hidden;
+}
+
+.gradient-container{
+    background: rgba(0, 4, 32, 0.699);
+    width: 900px;
+    height: 550px;
+    border-radius: 5px;
+    margin: 50px;
+}
+
+.code-container{
+    background: rgba(0, 4, 32, 0.699);
+    width: 250px;
+    height: 550px;
+    position: absolute;
+    right: 30px;
+    top: 50px;
+    border-radius: 5px;
+}
+
+.btn{
+    position: absolute;
+    bottom: 30px;
+    left: 80px;
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+    font-family: POPPINS;
+    text-align: center;
+    background-color: cornflowerblue;
+    border: none;
+    border-radius: 10px;
+}
+
+.text{
+    color: whitesmoke;
+    font-family: POPPINS;
+    font-weight: 400;
+    font-size: 25px;
+    position: absolute;
+    top: 5px;
+    left: 40px;
+}
